@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Weather Web App",
+      "imageSrc": "projects/weather.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "demo": "https://www.example.com",
+      "source": "https://weather-web-app-blush-six.vercel.app/"
+    },
+    {
+      "title": "Guess the number",
+      "imageSrc": "projects/guess.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Nilay45/GuessTheNumber"
+    },
+    {
+      "title": "Currency Convertor",
+      "imageSrc": "projects/currency.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Nilay45/Currency-Convertor"
+    }
+  ]
