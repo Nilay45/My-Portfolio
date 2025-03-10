@@ -1,6 +1,6 @@
 [
     {
-      "title": "Weather Web App",
+      "title": "Todo App",
       "imageSrc": "projects/weather.png",
       "description": "This is a project made to learn the latest languages by building an app.",
       "skills": ["HTML", "CSS", "JavaScript"],
@@ -8,12 +8,12 @@
       "source": "https://weather-web-app-blush-six.vercel.app/"
     },
     {
-      "title": "Guess the number",
-      "imageSrc": "projects/guess.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["HTML", "CSS", "JavaScript"],
-      "demo": "https://www.example.com",
-      "source": "https://github.com/Nilay45/GuessTheNumber"
+      "title": "Expense Management App",
+      "imageSrc": "projects/expense.png",
+      "description": "A full-stack expense management app to track income, expenses, and financial summaries with real-time data visualization.",
+      "skills": ["React", "Express", "Node", "MongoDB"],
+      "demo": "https://expense-management-app-ruby.vercel.app/",
+      "source": "https://github.com/Nilay45/Expense_Management_App"
     },
     {
       "title": "Currency Convertor",

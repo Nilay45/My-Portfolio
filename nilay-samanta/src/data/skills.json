@@ -20,6 +20,18 @@
       "imageSrc": "skills/tailwind.png"
     },
     {
+      "title": "Express.js",
+      "imageSrc": "skills/express-js.png"
+    },
+    {
+      "title": "Node.js",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "MongoDB.js",
+      "imageSrc": "skills/mongo.png"
+    },
+    {
       "title": "GitHub",
       "imageSrc": "skills/github.png"
     }
